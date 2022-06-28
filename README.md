@@ -8,3 +8,5 @@ remote experts can then provide support back to the Technician/User and guide th
 App supports video call and text messaging functionality.
 ‘Expert’ side can remotely draw and put marks on the User’s screen for assistance. 
 Option for recording the session.
+
+Try it out - https://drive.google.com/file/d/12TFLCg1Fa3toiCMawHlvViAZltJf8sjf/view?usp=sharing
