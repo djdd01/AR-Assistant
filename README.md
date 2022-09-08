@@ -1,5 +1,5 @@
 # AR-Assistant
-AR Remote Assistant app
+## AR Remote Assistant app ##
 
 * This is an Augmented Reality remote assistance android app in Kotlin which improves efficiency and reduces problem resolution times.</br>
 * The Technician/User can relay the camera view of the equipment to experts by using a mobile phone. These remote experts can then provide support back to the 
